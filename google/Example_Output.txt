@@ -1,0 +1,103 @@
+Do you want to process a new video? (yes/no): yes
+
+Video File Selection Options:
+1. Use GUI file picker
+2. Enter file path directly
+3. Use default videos folder
+
+Choose option (1-3): 1
+Video loaded successfully:
+Duration: 25.49 seconds
+FPS: 59
+Total frames: 1504     
+Processing video...
+Status: PROCESSING
+Processing video...
+Status: PROCESSING
+Processing video...
+Status: PROCESSING
+Processing video...
+Status: ACTIVE
+Processed chunk 0
+Processed chunk 1
+Processed chunk 2
+Processed chunk 3
+Processed chunk 4
+Processed chunk 5
+Processed chunk 6
+Processed chunk 7
+Processed chunk 8
+Processed chunk 9
+Processed chunk 10
+Processed chunk 11
+Processed chunk 12
+Processed chunk 13
+Processed chunk 14
+Processed chunk 15
+Processed chunk 16
+Processed chunk 17
+Processed chunk 18
+Processed chunk 19
+Processed chunk 20
+Processed chunk 21
+Processed chunk 22
+Processed chunk 23
+Processed chunk 24
+
+Analysis saved to video_analysis_1735594432.json
+
+Choose a character trait for the AI commentator.
+Examples: enthusiastic commentator, movie critic, technical analyst, casual observer
+Enter character trait (press Enter for default 'enthusiastic commentator'): movie critic
+Video analysis loaded successfully!
+
+Commands:
+- Enter timestamp (MM:SS) for video analysis
+- Type 'trait' to change AI character trait
+- Type 'quit' to exit
+
+Enter command: 00:15
+What would you like to know about this moment? Tell me everything
+
+Reaction: Tell me everything?  Alright, buckle up, because in the first fifteen seconds of this video, we're treated to a hyper-kinetic action sequence straight out of a futuristic, possibly Warframe-esque, video game.  We're firmly planted in the first-person perspective of a character, clad in 
+dark, stylish armor, who unleashes a relentless barrage of energy blasts upon waves of robotic enemies.
+
+The setting is undeniably striking: a dark, metallic arena, almost cathedral-like in its scale, with imposing humanoid statues flanking a glowing, teal energy field in the background. The atmosphere is simultaneously technologically advanced and eerily desolate. The visuals are slick, the action 
+is frenetic, and the sound design perfectly complements the chaotic combat with the satisfying *whoosh* of energy blasts and the *bang* of explosions.
+
+Essentially, it's a visually impressive display of gameplay showcasing the character's power and the game's stunning environment.  While there's no dialogue in this short clip, the sheer spectacle speaks volumes about the potential of the game.  It screams "high-octane action" and leaves me wanting to see more.  I'd give this opening sequence a solid 8.5/10 for its sheer visual impact and thrilling pacing.
+
+
+Any follow-up questions? (yes/no): no
+
+Commands:
+- Enter timestamp (MM:SS) for video analysis
+- Type 'trait' to change AI character trait
+- Type 'quit' to exit
+
+Enter command: trait
+Enter new character trait: casual observer
+Character trait changed to: casual observer
+
+Commands:
+- Enter timestamp (MM:SS) for video analysis
+- Type 'trait' to change AI character trait
+- Type 'quit' to exit
+
+Enter command: 00:20
+What would you like to know about this moment? Weapon use
+
+Reaction: Whoa, that's some intense weapon use!  Looks like a futuristic shooter video game, lots of energy blasts and explosions.  The character is laying down some serious firepower.  Definitely not your grandpappy's blaster.
+
+
+Any follow-up questions? (yes/no): no  
+
+Commands:
+- Enter timestamp (MM:SS) for video analysis
+- Type 'trait' to change AI character trait
+- Type 'quit' to exit
+
+Enter command: quit
+Do you want to process a new video? (yes/no): no
+
+Thank you for using the Video Analysis tool!
