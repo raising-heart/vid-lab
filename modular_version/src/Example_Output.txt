@@ -1,1 +1,126 @@
+python main.py
+API configured successfully
 
+Video File Selection Options:
+1. Use GUI file picker       
+2. Enter file path directly  
+3. Use default videos folder 
+
+Choose option (1-3): 1
+
+Processing video...
+Video loaded successfully:
+Duration: 25.49 seconds
+FPS: 59
+Total frames: 1504     
+Processing video...
+Status: PROCESSING
+Processing video...
+Status: ACTIVE
+Processed chunk 0
+Processed chunk 1
+Processed chunk 2
+Processed chunk 3
+Processed chunk 4
+Processed chunk 5
+Processed chunk 6
+Processed chunk 7
+Processed chunk 8
+Processed chunk 9
+Processed chunk 10
+Processed chunk 11
+Processed chunk 12
+Processed chunk 13
+Processed chunk 14
+Processed chunk 15
+Processed chunk 16
+Processed chunk 17
+Processed chunk 18
+Processed chunk 19
+Processed chunk 20
+Processed chunk 21
+Processed chunk 22
+Processed chunk 23
+Processed chunk 24
+
+Analysis saved to output\video_analysis.json
+
+Available Commands:
+
+1. react <timestamp> <query>
+   Example: react 00:00:30 what is happening in this scene?
+   - Generate AI reaction for a specific moment in the video
+   - <timestamp> format: HH:MM:SS or seconds (e.g., 00:00:30 or 30)
+   - <query> can be any question or prompt about that moment
+
+2. continue <query>
+   Example: continue what happened next?
+   - Continue the conversation about the previous timestamp
+   - Useful for follow-up questions about the same scene
+
+3. character <new_trait>
+   Example: character movie critic
+   - Change how the AI reacts to scenes
+   - Suggestions: movie critic, sports commentator, comedian, film director
+
+Type 'quit' to exit the program
+
+Enter command: react 00:00:15 What is happening here?
+
+Reaction: Hold onto your hats, folks, because we're witnessing some *serious* Warframe action!  From the 12-second mark onwards, we're treated to a breathtaking display of futuristic firepower!     
+
+First, a pinpoint explosion!  Our Warframe, perfectly positioned, unleashes a devastating blast, obliterating an enemy in a spectacular particle effect.  Note the subtle aiming adjustments – this isn't just button-mashing, this is precision combat! The environment itself is a masterpiece: sleek, 
+metallic surfaces, imposing statues hinting at a rich backstory, and a mysterious teal backdrop suggesting a view beyond this battle zone.
+
+Then, the action intensifies!  A purple energy blast, a veritable wave of destruction, wipes out multiple robotic foes! The sheer power is incredible, and the visual effects are stunning.  We see the HUD momentarily, confirming this is no walk in the park – our Warframe's facing a tough challenge!
+
+Finally, the grand finale! A secondary weapon unleashes a massive area-of-effect blast, a swirling 
+vortex of dark purple and blue energy that decimates everything in its path! Even the heavily armored enemy takes a beating, though it's clearly not done yet!
+
+This isn't just gameplay; it's a cinematic experience! The attention to detail – the reflective floor, the imposing architecture, the incredible energy effects – it's all breathtaking. This is high-octane Warframe action at its finest!  We need more!  Give us more of this intense, visually spectacular combat!
+
+
+Enter command: character stand-up
+
+Character trait changed to: stand-up
+
+Enter command: 00:00:20 what is happening here?
+Invalid command format. Please try again.
+
+Enter command: react 00:00:20 what is happening here? 
+
+Reaction: (Stands center stage, adjusts mic)
+
+So, I watched this video…  and let me tell you, it was intense.  Three seconds of pure, unadulterated… *gaming*.  (Beat)
+
+Apparently, some guy – or gal, I don’t judge – is playing this game, right? It's…  *Warframe* I think?  Looks like it.  And they're basically in this ridiculously cool, dark, metallic arena.  Think 
+Darth Vader's garage sale, but with better lighting. (Gestures vaguely)
+
+(Leans into the mic conspiratorially)
+
+For three seconds, we're treated to this non-stop barrage of gunfire, explosions… you know, the usual Tuesday night for these folks.  This Warframe – which, by the way, looks like a cross between a 
+futuristic ninja and a really buff fridge – is dodging, weaving, and shooting everything that moves.  And everything that moves is clearly very upset about this. They're all these robotic things… kinda like if Roomba and the Terminator had a baby and then that baby went to a really aggressive gym.
+
+(Mimes frantic shooting)
+
+And the audio? Forget about it! It's pure chaos.  It's like someone took a washing machine, a blender, and a bag of firecrackers, all threw them in a metal drum, and then cranked up the volume to eleven.  (Makes exaggerated pained face)
+
+(Paces the stage)
+
+And the visuals… I mean, *come on*. Dark grays, splashes of teal, giant metal statues looming in the background… it's gorgeous.  It's like if someone designed a video game level specifically to make my anxiety go through the roof.
+
+(Shrugs)
+
+So, yeah. Three seconds of intense, futuristic, robotic-blasting, adrenaline-fueled action.  Pretty much my ideal Saturday night.  (Smiles)  Anyone else here play *Warframe*?  (Looks out at the audience expectantly)  No?  Well, you’re missing out.  (Exits stage)
+
+
+Enter command: character gloom
+
+Character trait changed to: gloom
+
+Enter command: react 00:00:20 what is happening here?
+
+Reaction: More pointless violence in a soulless digital landscape.  Another fleeting moment of simulated conflict in a world already drowning in the echoes of real suffering.  The dark metallic sheen, the robotic foes...it's all so sterile, so devoid of meaning.  Even the explosions lack the visceral impact of genuine destruction.  Just pixels, fleeting light shows masking the hollowness at the heart of it all.  Another meaningless digital ballet of death.  What a waste.
+
+
+Enter command: quit
